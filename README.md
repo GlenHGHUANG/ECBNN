@@ -59,7 +59,7 @@ CUBLAS_WORKSPACE_CONFIG=:4096:8 python run.py --model_name ECBNN
 
 
 #### Multi-view Lip Reading
-* We followed the paper *End-to-End Multi-View Lipreading, S. Petridis, Y. Wang, Z. Li, M. Pantic. British Machine Vision Conference. London, September 2017* to download and process the dataset. For your convenience, we also uploaded our processed [OuluVS2 dataset](https://drive.google.com/drive/folders/1tIahsionfO_lSEvJUnAdyA-IDQbb5KIc?usp=sharing) following MIT License. You can put the data as follows:
+* We followed the paper *End-to-End Multi-View Lipreading, S. Petridis, Y. Wang, Z. Li, M. Pantic. British Machine Vision Conference. London, September 2017* to download and process the dataset. Currently, the official download page does not work. You may contact Guoying Zhao (guoying.zhao@oulu.fi) to get a copy of the dataset. After downloading, you can put the data as follows:
 
 ```
 OuluVS2
